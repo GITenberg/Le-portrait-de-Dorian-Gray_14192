@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14192#Le-portrait-de-Dorian-Gray
 gutenberg_bookshelf:
 - FR Littérature
 - Movie Books
