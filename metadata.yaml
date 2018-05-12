@@ -1,0 +1,49 @@
+_repo: Le-portrait-de-Dorian-Gray_14192
+_version: 0.1.0
+alternative_title: The picture of Dorian Gray. French
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Movie Books
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14192'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Appearance (Philosophy) -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Portraits -- Fiction'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- !lcsh 'London (England) -- History -- 1800-1950 -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Conduct of life -- Fiction'
+title: Le portrait de Dorian Gray
+url: http://www.gutenberg.org/ebooks/14192
